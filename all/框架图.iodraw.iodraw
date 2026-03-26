@@ -4,22 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ACL9zhJCFuQTpfr3dFhd-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.81;rounded=0;" edge="1" parent="1" source="ACL9zhJCFuQTpfr3dFhd-8" target="ACL9zhJCFuQTpfr3dFhd-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1234" y="477" />
-              <mxPoint x="1259" y="206" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ACL9zhJCFuQTpfr3dFhd-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.1;entryY=0.99;rounded=0;" edge="1" parent="1" source="ACL9zhJCFuQTpfr3dFhd-9" target="ACL9zhJCFuQTpfr3dFhd-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1234" y="347" />
-              <mxPoint x="1259" y="127" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ACL9zhJCFuQTpfr3dFhd-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="170" y="445" width="1214" height="279" as="geometry" />
         </mxCell>
@@ -86,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ACL9zhJCFuQTpfr3dFhd-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="390" y="40" width="1485" height="230" as="geometry" />
+          <mxGeometry x="520" y="100" width="1485" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ACL9zhJCFuQTpfr3dFhd-1" value="Stage II &amp;amp; III – Online Section" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ACL9zhJCFuQTpfr3dFhd-35">
           <mxGeometry width="1485" height="230" as="geometry" />
