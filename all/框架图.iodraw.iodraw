@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ACL9zhJCFuQTpfr3dFhd-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860" y="380" width="1214" height="279" as="geometry" />
+          <mxGeometry x="881" y="380" width="1214" height="279" as="geometry" />
         </mxCell>
         <mxCell id="ACL9zhJCFuQTpfr3dFhd-2" value="Stage I – Offline Section" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ACL9zhJCFuQTpfr3dFhd-34">
           <mxGeometry width="1214" height="279" as="geometry" />
